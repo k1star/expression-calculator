@@ -1,0 +1,15 @@
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ExpressionCalculatror.exe
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ExpressionCalculatror.deps.json
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ExpressionCalculatror.runtimeconfig.json
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ExpressionCalculatror.dll
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ref\ExpressionCalculatror.dll
+C:\Users\user\Documents\C projects\ExpressionCalculatror\bin\Debug\net6.0\ExpressionCalculatror.pdb
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.AssemblyInfo.cs
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.dll
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ref\ExpressionCalculatror.dll
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.pdb
+C:\Users\user\Documents\C projects\ExpressionCalculatror\obj\Debug\net6.0\ExpressionCalculatror.genruntimeconfig.cache
