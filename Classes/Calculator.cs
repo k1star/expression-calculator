@@ -84,7 +84,7 @@ namespace ExpressionCalculatror.Classes
                     }
 
 
-                    if ((stack.GetLengthStackSymbols() == 0 || stack.ReadSymbol() == '(' || stack.ReadSymbol() == ')') && c == '-')
+                    if (stack.GetLengthStackSymbols() == 0)
                     {
                         isNegative = true;
                         continue;
